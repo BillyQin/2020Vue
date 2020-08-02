@@ -1,1 +1,0 @@
-{"version":3,"file":"vue.js","sources":["../../src/index.js"],"sourcesContent":["export const fn = () => {\n  console.log('hello vue')\n}"],"names":["fn","console","log"],"mappings":";;;;;;MAAaA,EAAE,GAAG,SAALA,EAAK,GAAM;EACtBC,EAAAA,OAAO,CAACC,GAAR,CAAY,WAAZ;EACD;;;;;;;;;;;;"}
